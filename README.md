@@ -1,26 +1,18 @@
 # 💫 About Me
 👋 Hello! I'm **Noaman Ayub**
 
-I'm a professional graphic designer with 6 years of experience. I’ve worked for 2 years as a graphic designer and video editor at RIC, and I'm also a content creator on YouTube. Currently, I’m specializing in Artificial Intelligence. I'm an alumnus of Harvard’s CS50 AI course and hold a Professional Certificate in IT Automation from Google. I have also completed an internship in AI.
+​I believe that powerful technology requires compelling design.
 
-Feel free to contact me and explore my services!
+​With a background in Applied AI, Robotics, and IT Management, I bring a unique dual perspective to every project: I understand the complex logic required to make systems work, and the visual storytelling required to make people care.
 
----
+​Currently serving as IT Director at Multiomics, I manage the technical architecture for global research initiatives while ensuring our digital footprint is visually distinct and user-friendly. Whether it's training an AI model for healthcare applications or designing the interface it lives on, I focus on precision and impact.
 
-## 🌱 Currently Learning
-I’m currently diving deep into Artificial Intelligence and Machine Learning.
+What I bring to the table:
+• Technical Depth: Expertise in AI, Robotics, and Code.
+• Creative Vision: Professional visual design and branding.
+• ​Leadership: Experience founding and directing tech organizations like Arise Ability.
 
----
-
-## 💼 Skills
-
-### 🎨 Graphic Designing
-I craft visually engaging designs that communicate clearly and leave a strong impression. Whether it’s logos, branding materials, web graphics, or print collateral — I aim for creativity and clarity in every project.
-
-### 🎬 Video Editing
-I specialize in assembling footage, adding effects, and enhancing audio to deliver captivating and seamless videos — from promotional content to dynamic social media clips.
-
----
+​Let's connect to discuss how AI and design can transform your industry.
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -33,14 +25,6 @@ I specialize in assembling footage, adding effects, and enhancing audio to deliv
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🖌️ Design & Editing Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 ### 🤖 AI & ML Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
